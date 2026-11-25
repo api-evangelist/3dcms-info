@@ -66,7 +66,7 @@
 
 3dCMS is a web‑based platform that lets users build explorable 3D websites directly in the browser. It offers a visual editor, AI‑assisted scene creation via Claude, ChatGPT, Gemini, and other large language models, and an MCP server that turns natural‑language prompts into 3D content. Pages are published as fully crawlable HTML with their own URLs, enabling SEO‑friendly 3D experiences without writing code. The platform includes templates, a knowledge base, pricing plans, and a contact channel for support.
 
-**Areas:** 3D · Website Builder · No-code · AI · MCP · Content Management
+**Areas:** 3D · Website Builder · No-Code · Artificial Intelligence · MCP · Content Management
 
 ## 3dCMS on APIs.io
 
@@ -80,18 +80,24 @@ Everything profiled for 3dCMS is published on APIs.io rather than in this reposi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [3dcms-info-mcp.yml](https://apis.io/servers/3dcms-info/3dcms-info-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Dcms Info Domain Security](https://apis.io/security/3dcms-info/3dcms-info-domain-security/)
-- [3Dcms Info Vulnerability Disclosure](https://apis.io/security/3dcms-info/3dcms-info-vulnerability-disclosure/)
+- [3dCMS Domain Security](https://apis.io/security/3dcms-info/3dcms-info-domain-security/)
+- [3dCMS Vulnerability Disclosure](https://apis.io/security/3dcms-info/3dcms-info-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Dcms Info Plans Pricing](https://apis.io/plans/3dcms-info/3dcms-info-plans-pricing/)
+- [3dCMS Plans Pricing](https://apis.io/plans/3dcms-info/3dcms-info-plans-pricing/)
 
 ## Where to find this API
 
@@ -107,18 +113,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 26.4** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 28.7** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 81.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 60.0 |
+| Access clarity | 63.8 |
 
-**Agent readiness 27.6** — agent-aware
+**Agent readiness 27.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -143,6 +149,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
 
